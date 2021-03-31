@@ -1,0 +1,355 @@
+{ "book details":[
+  {
+    "_id": "3735293",
+    "book_author": [
+      "Robert C. Martin"
+    ],
+    "book_author_url": [
+      "https://www.goodreads.com/author/show/45372.Robert_C_Martin"
+    ],
+    "book_id": "3735293",
+    "book_rating": 4.4,
+    "book_rating_count": 16017,
+    "book_review_count": 953,
+    "book_title": "CleanCode:AHandbookofAgileSoftwareCraftsmanship",
+    "book_url": "https://www.goodreads.com/book/show/3735293-clean-code?from_search=true&qid=HhMDV0vMa5&rank=1",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436202607l/3735293._SX318_.jpg",
+    "isbn": "9780132350884",
+    "related_books": [
+      "The Pragmatic Programmer: From Journeyman to Master",
+      "Design Patterns: Elements of Reusable Object-Oriented Software",
+      "Refactoring: Improving the Design of Existing Code",
+      "Head First Design Patterns",
+      "Code Complete",
+      "Effective Java",
+      "Test-Driven Development: By Example",
+      "Working Effectively with Legacy Code",
+      "Domain-Driven Design: Tackling Complexity in the Heart of Software",
+      "Java Concurrency in Practice",
+      "Designing Data-Intensive Applications",
+      "Building Microservices: Designing Fine-Grained Systems",
+      "Growing Object-Oriented Software, Guided by Tests",
+      "The Mythical Man-Month: Essays on Software Engineering",
+      "The Software Craftsman: Professionalism, Pragmatism, Pride",
+      "JavaScript: The Good Parts",
+      "Patterns of Enterprise Application Architecture",
+      "Implementing Domain-Driven Design"
+    ]
+  },
+  {
+    "_id": "22512931",
+    "book_author": [
+      "Sam Newman"
+    ],
+    "book_author_url": [
+      "https://www.goodreads.com/author/show/3362774.Sam_Newman"
+    ],
+    "book_id": "22512931",
+    "book_rating": 4.18,
+    "book_rating_count": 3654,
+    "book_review_count": 318,
+    "book_title": "BuildingMicroservices:DesigningFine-GrainedSystems",
+    "book_url": "https://www.goodreads.com/book/show/22512931-building-microservices",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403186979l/22512931.jpg",
+    "isbn": "9781491950357",
+    "related_books": [
+      "Domain-Driven Design: Tackling Complexity in the Heart of Software",
+      "Designing Data-Intensive Applications",
+      "Release It!: Design and Deploy Production-Ready Software (Pragmatic Programmers)",
+      "Building Evolutionary Architectures: Support Constant Change",
+      "Clean Architecture",
+      "Patterns of Enterprise Application Architecture",
+      "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "Effective Java",
+      "Refactoring: Improving the Design of Existing Code",
+      "Design Patterns: Elements of Reusable Object-Oriented Software",
+      "The Pragmatic Programmer: From Journeyman to Master",
+      "Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation",
+      "Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale",
+      "Head First Design Patterns",
+      "The Clean Coder: A Code of Conduct for Professional Programmers",
+      "Domain-Driven Design Distilled",
+      "Kubernetes: Up & Running",
+      "Accelerate: Building and Scaling High-Performing Technology Organizations"
+    ]
+  },
+  {
+    "_id": "85039",
+    "book_author": [
+      "Frank Buschmann",
+      "Hans Rohnert"
+    ],
+    "book_author_url": [
+      "https://www.goodreads.com/author/show/45370.Frank_Buschmann",
+      "https://www.goodreads.com/author/show/45373.Hans_Rohnert"
+    ],
+    "book_id": "85039",
+    "book_rating": 3.89,
+    "book_rating_count": 202,
+    "book_review_count": 15,
+    "book_title": "Pattern-OrientedSoftwareArchitectureVolume1:ASystemofPatterns",
+    "book_url": "https://www.goodreads.com/book/show/85039.Pattern_Oriented_Software_Architecture_Volume_1",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348907122l/85039.jpg",
+    "isbn": "9780471958697",
+    "related_books": [
+      "Software Architecture in Practice",
+      "Clean Architecture",
+      "The Pragmatic Programmer: From Journeyman to Master",
+      "Elements of Modern Algebra",
+      "Software Systems Architecture: Working with Stakeholders Using Viewpoints and Perspectives",
+      "This is Marketing: You Can't Be Seen Until You Learn To See",
+      "Test-Driven Development: By Example",
+      "Building Evolutionary Architectures: Support Constant Change",
+      "The Tea Dragon Society (Tea Dragon, #1)",
+      "The Tea Enthusiast's Handbook: A Guide to the World's Best Teas",
+      "Back to the Future: The Ultimate Visual History",
+      "The Imjin War: Japan's Sixteenth-Century Invasion of Korea and Attempt to Conquer China",
+      "Kiki's Delivery Service",
+      "East India Company and Dutch East India Company: A History From Beginning to End",
+      "For All the Tea in China: Espionage, Empire and the Secret Formula for the World's Favourite Drink",
+      "Linux System Programming: Talking Directly to the Kernel and C Library",
+      "Lean Enterprise: How High Performance Organizations Innovate at Scale",
+      "Antipatterns: Refactoring Software, Architectures, and Projects in Crisis"
+    ]
+  },
+  {
+    "_id": "19990225",
+    "book_author": [
+      "Jiaming",
+      "Wang"
+    ],
+    "book_id": "19990225",
+    "book_rating": 5,
+    "book_rating_count": 1203,
+    "book_review_count": 1255,
+    "book_title": "Zhang",
+    "book_url": "www.jmz.com"
+  },
+  {
+    "_id": {
+      "$oid": "604fd68354c58af9003f0cc3"
+    },
+    "book_id": "1234",
+    "book_title": "Jiaming Zhangs Book"
+  },
+  {
+    "_id": "12121",
+    "book_id": "12121",
+    "book_title": "Jiaming Zhangs"
+  }
+], "author details":[
+  {
+    "_id": "45372",
+    "author_book": [
+      "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "The Clean Coder: A Code of Conduct for Professional Programmers",
+      "Clean Architecture",
+      "Agile Software Development, Principles, Patterns, and Practices",
+      "Agile Principles, Patterns, and Practices in C#",
+      "Clean Agile: Back to Basics",
+      "The Robert C. Martin Clean Code Collection",
+      "UML for Java Programmers",
+      "Pattern Languages of Program Design 3",
+      "Design Principles and  Design Patterns"
+    ],
+    "author_id": "45372",
+    "author_image_url": "https://images.gr-assets.com/authors/1490470967p5/45372.jpg",
+    "author_name": "Robert C. Martin",
+    "author_rating": 4.34,
+    "author_rating_counts": 29258,
+    "author_review_counts": 1924,
+    "author_url": "https://www.goodreads.com/author/show/45372.Robert_C_Martin",
+    "similar_author": [
+      "Robert C. Martin",
+      "Andy Hunt",
+      "Steve McConnell",
+      "Michael C. Feathers",
+      "Kent Beck",
+      "Martin Fowler",
+      "Eric Freeman",
+      "Erich Gamma",
+      "Joshua Bloch",
+      "Eric Evans",
+      "Sam Newman",
+      "Sandro Mancuso",
+      "Steve  Freeman"
+    ]
+  },
+  {
+    "_id": "25211",
+    "author_book": [
+      "Test-Driven Development: By Example",
+      "Extreme Programming Explained: Embrace Change (The XP Series)",
+      "Implementation Patterns",
+      "Planning Extreme Programming",
+      "Smalltalk Best Practice Patterns",
+      "Manifesto for Agile Software Development",
+      "JUnit Pocket Guide",
+      "Kent Beck's Guide to Better SmallTalk: A Sorted Collection",
+      "CRC: The Essence of Objects",
+      "User Stories Applied: For Agile Software Development"
+    ],
+    "author_id": "25211",
+    "author_image_url": "https://images.gr-assets.com/authors/1345546877p5/25211.jpg",
+    "author_name": "Kent Beck",
+    "author_rating": 4.1,
+    "author_rating_counts": 17691,
+    "author_review_counts": 818,
+    "author_url": "https://www.goodreads.com/author/show/25211.Kent_Beck",
+    "similar_author": [
+      "Kent Beck",
+      "Mike Cohn",
+      "Andy Hunt",
+      "Steve McConnell",
+      "Michael T. Nygard",
+      "Michael C. Feathers",
+      "Martin Fowler",
+      "Eric Freeman",
+      "Robert C. Martin",
+      "Erich Gamma",
+      "Joshua Bloch",
+      "Eric Evans",
+      "Frederick P. Brooks Jr."
+    ]
+  },
+  {
+    "_id": "38241",
+    "author_book": [
+      "Extreme Programming Explained: Embrace Change (The XP Series)"
+    ],
+    "author_id": "38241",
+    "author_image_url": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png",
+    "author_name": "Cynthia Andres",
+    "author_rating": 4.09,
+    "author_rating_counts": 3118,
+    "author_review_counts": 150,
+    "author_url": "https://www.goodreads.com/author/show/38241.Cynthia_Andres",
+    "similar_author": []
+  },
+  {
+    "_id": "3362774",
+    "author_book": [
+      "Building Microservices: Designing Fine-Grained Systems",
+      "Monolith to Microservices: Sustaining Productivity While Detangling the System",
+      "Lightweight Systems for Realtime Monitoring",
+      "Pumi Training Guide",
+      "Sitting Ducks",
+      "Samsung Galaxy S10 User Guide: Comprehensive user manual for optimizing your new Samsung Galaxy S10e, S10 & S10 Plus",
+      "Design, Build, Ship: Faster, Safer Software Delivery",
+      "Pyrenean Mastiff Guide",
+      "Welsh Terrier Activities",
+      "Pyrenean Mastiff Activities"
+    ],
+    "author_id": "3362774",
+    "author_image_url": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png",
+    "author_name": "Sam Newman",
+    "author_rating": 4.19,
+    "author_rating_counts": 3992,
+    "author_review_counts": 360,
+    "author_url": "https://www.goodreads.com/author/show/3362774.Sam_Newman",
+    "similar_author": [
+      "Sam Newman",
+      "Andy Hunt",
+      "Michael T. Nygard",
+      "Michael C. Feathers",
+      "Martin Fowler",
+      "Eric Freeman",
+      "Robert C. Martin",
+      "Erich Gamma",
+      "Joshua Bloch",
+      "Eric Evans",
+      "Chris Richardson",
+      "Neal Ford",
+      "Jez Humble",
+      "Vaughn Vernon",
+      "Brendan Burns",
+      "Martin Kleppmann",
+      "John Ousterhout",
+      "Kelsey Hightower",
+      "Betsy Beyer",
+      "Neha Narkhede",
+      "Alan A.A. Donovan",
+      "Nicole Forsgren",
+      "Mark   Richards",
+      "Matthew    Skelton"
+    ]
+  },
+  {
+    "_id": "45370",
+    "author_book": [
+      "Pattern-Oriented Software Architecture Volume 1: A System of Patterns",
+      "Am Ende kackt die Ente!: Aus dem Leben eines Sportverr\u00fcckten",
+      "Pattern-Oriented Software Architecture Volume 4: A Pattern Language for Distributed Computing",
+      "Pattern Oriented Software Architecture Volume 5: On Patterns and Pattern Languages",
+      "Einfach mal frei Schnauze: Mit Buschi unterwegs zu den Gro\u00dfen des Sports",
+      "Esoterik - Astrologie Ratgeber",
+      "Object-Oriented Technology. Ecoop 2003 Workshop Reader: Ecoop 2003 Workshops, Darmstadt, Germany, July 21-25, 2003, Final Reports",
+      "Pattern Languages of Program Design 3",
+      "Server Component Patterns: Component Infrastructures Illustrated with Ejb",
+      "Security Patterns: Integrating Security and Systems Engineering"
+    ],
+    "author_id": "45370",
+    "author_image_url": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png",
+    "author_name": "Frank Buschmann",
+    "author_rating": 3.79,
+    "author_rating_counts": 356,
+    "author_review_counts": 26,
+    "author_url": "https://www.goodreads.com/author/show/45370.Frank_Buschmann",
+    "similar_author": [
+      "Frank Buschmann",
+      "Jeff Pearlman",
+      "Bill Simmons",
+      "Paul Shirley",
+      "Martin Fowler",
+      "Rick Reilly",
+      "David Halberstam",
+      "Robert C. Martin",
+      "Gregor Hohpe",
+      "Mick Foley",
+      "Nick Rozanski",
+      "Terry Pluto",
+      "Jimmie Gilbert",
+      "Thomas Pletzinger",
+      "Matt Jackson",
+      "Kenneth H. Blanchard",
+      "Pat Kirwan",
+      "Andr\u00e9 Voigt",
+      "Ahmir Questlove Thompson",
+      "Anita G\u0142owi\u0144ska",
+      "Patrick Esume",
+      "Adrian Franke",
+      "Robert Bab\u0142ojan",
+      "Patrick Ittrich"
+    ]
+  },
+  {
+    "_id": "19990225",
+    "author_book": [
+      "YouKnowBook"
+    ],
+    "author_id": "19990225",
+    "author_name": "Jiaming/Yoshi",
+    "author_rating": 1,
+    "author_rating_counts": 1241,
+    "author_review_counts": 4220,
+    "author_url": "www.jmz.com"
+  },
+  {
+    "_id": "123124",
+    "author_book": [
+      "jiaming",
+      "yoshi"
+    ],
+    "author_id": "123124",
+    "author_name": "jiaming",
+    "author_rating": 0,
+    "author_rating_counts": 0,
+    "author_review_counts": 0,
+    "author_url": "www.google.com"
+  },
+  {
+    "_id": "1234",
+    "author_id": "1234",
+    "author_name": "Jiaming Zhangs"
+  }
+]
